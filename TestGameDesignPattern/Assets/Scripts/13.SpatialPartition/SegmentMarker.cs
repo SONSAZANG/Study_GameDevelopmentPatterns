@@ -1,3 +1,4 @@
+using Chapter.EventBus;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
